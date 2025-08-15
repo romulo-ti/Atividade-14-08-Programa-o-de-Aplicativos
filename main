@@ -1,20 +1,3 @@
-# class Livro:
-#
-#     def __init__(self, titulo, autor, n_paginas, pagAtual):
-#         self.titulo = titulo
-#         self.autor = autor
-#         self.n_paginas = n_paginas
-#         self.pagAtual = pagAtual
-#
-#     def AbrirLivro(self):
-#         self.pagAtual = 1
-#
-#     def LerPaginas(self, pagAtual):
-#         pagAtual += 1
-#
-#     def ExibirProgresso(self,n_paginas, pagAtual):
-#         progresso = n_paginas - pagAtual
-#         return progresso
 
 
 class ContaBancaria:
